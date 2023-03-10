@@ -1,0 +1,12 @@
+D:\работы\DataGrid_Airport-Airport\bin\Debug\UserStory_Airport.exe.config
+D:\работы\DataGrid_Airport-Airport\bin\Debug\UserStory_Airport.exe
+D:\работы\DataGrid_Airport-Airport\bin\Debug\UserStory_Airport.pdb
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.csproj.AssemblyReference.cache
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.csproj.SuggestedBindingRedirects.cache
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.Form1.resources
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.Properties.Resources.resources
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.FlightsForm.resources
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.csproj.GenerateResource.cache
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.csproj.CoreCompileInputs.cache
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.exe
+D:\работы\DataGrid_Airport-Airport\obj\Debug\UserStory_Airport.pdb
